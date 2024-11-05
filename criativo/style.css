@@ -1,0 +1,15 @@
+body{
+    background-color: #0c0c0c;
+}
+header{
+    background-color: #242818;
+    width: 100%;
+    height: 30px;
+}
+#headerbuttom{
+    background-color: #72b71f;
+    color: white;
+    border: 0;
+    bottom: 5px;
+    right: 5px;
+}
